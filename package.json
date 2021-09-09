@@ -1,0 +1,14 @@
+{
+  "name": "betacar",
+  "version": "1.0.0",
+  "description": "Bet Racer minigame",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oscanis",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.132.2"
+  }
+}
